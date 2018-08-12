@@ -103,6 +103,7 @@ int main(){
 
 
     }
+    printf("the matrix is ");
 
     return 0;//Why do we do this?Any ideas? Do reply.
 }
